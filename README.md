@@ -1,11 +1,11 @@
-# 📘 Tiny Expense Tracker  
+#  Tiny Expense Tracker  
 
 A simple Python-based **Expense Tracker** that works both in **CLI (Command Line)** and as a **Streamlit Web App**.  
 This project demonstrates data persistence, error handling, and deployment to Hugging Face Spaces.  
 
 ---
 
-## 🚀 Features
+##  Features
 - Add daily expenses with category, amount, and notes.  
 - View all expenses in a table.  
 - Get **weekly/monthly summaries** grouped by category.  
@@ -16,7 +16,7 @@ This project demonstrates data persistence, error handling, and deployment to Hu
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone repo or download ZIP
 ```bash
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 tiny-expense-tracker/
 │── app.py              # CLI version
@@ -53,7 +53,7 @@ tiny-expense-tracker/
 
 ---
 
-## 💻 CLI Usage
+##  CLI Usage
 
 Run inside project folder:
 
@@ -84,7 +84,7 @@ Run inside project folder:
 
 ---
 
-## 🌐 Streamlit Web App
+##  Streamlit Web App
 
 Run locally:
 ```bash
@@ -96,7 +96,7 @@ Or use the **live demo** hosted on Hugging Face:
 
 ---
 
-## 📊 Example Output (CLI)
+##  Example Output (CLI)
 ```
 Summary from 2025-10-01 to 2025-10-02
 ----------------------------------------
@@ -117,17 +117,17 @@ Budget (monthly): 20000.00  — projected monthly spending: 80550.00
 
 ---
 
-## 📝 Development Log
+##  Development Log
 See [`log.md`](./log.md) for step-by-step progress, errors, and fixes.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 - Python 3.12+  
 - pandas  
 - streamlit  
 
 ---
 
-## 📌 Author
+##  Author
 Developed by **Surendran S** as part of an assignment project.  
