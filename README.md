@@ -113,16 +113,7 @@ Budget (monthly): 20000.00  — projected monthly spending: 80550.00
 
 ---
 
-## 🖼️ Screenshots
 
-### CLI Summary Example  
-![CLI Example](screenshot_cli.png)
-
-### Streamlit Web App – Add Expense  
-![Add Expense](screenshot_add.png)
-
-### Streamlit Web App – Overview  
-![Overview](screenshot_overview.png)
 
 ---
 
